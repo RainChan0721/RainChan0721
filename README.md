@@ -5,7 +5,7 @@
 >Learning programming
 >
 ## Meow ##
-![RainChan0721](https://count.getloli.com/@RainChan0721?name=RainChan0721&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![RainChan0721](https://count.getloli.com/@RainChan0721?name=RainChan0721&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 ## RainChan Github Stats Card ##
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RainChan0721&include_all_commits=true)
 
