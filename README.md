@@ -1,11 +1,13 @@
-# Here is the homepage of Yeyulinxi0144 #
+# Here is the homepage of RainChan #
 **Personal introduction**
 >
->Is a student who is trying to learn programming QwQ
+>A catgirl primarily using AI programming.
+>Learning programming
 >
+## Meow ##
+![RainChan0721](https://count.getloli.com/@RainChan0721?name=RainChan0721&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+## RainChan Github Stats Card ##
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=RainChan0721&include_all_commits=true)
 
-## Yeyulinxi's Github Stats Card ##
-![](https://github-readme-stats.vercel.app/api?username=Yeyulinxi0144&show_icons=true&theme=tokyonight&locale=cn)
-
-### Yeyulinxi's Blog and Mail ###
-[![Yeyulinxi's Blog](https://img.shields.io/badge/Yeyulinxi's_Blog-blue)](https://yeyulinxi.icu) [![Yeyulinxi's Mail](https://img.shields.io/badge/Yeyulinxi's_Mail-blue)](mailto:yeyulinxi0144@gmail.com)
+### RainChan Blog and Mail ###
+[![RainChan's Blog](https://img.shields.io/badge/RainChan's_Blog-blue)](https://rainchan.ink) [![RainChan's Mail](https://img.shields.io/badge/RainChan's_Mail-blue)](mailto:yeyulinxi0144@gmail.com)
