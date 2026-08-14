@@ -31,7 +31,7 @@
 
 </div>
 
-## 📈 当前连胜纪录和活动图表
+## 📈 Current Streak & Activity Graph
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-## 🐍 蛇类贡献
+## 🐍 Snake Contributions
 
 <div align="center">
 
