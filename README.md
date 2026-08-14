@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/Blog-rainchan.ink-87CEEB?style=for-the-badge&logo=blogger&logoColor=white)](https://rainchan.ink)
 [![Mail](https://img.shields.io/badge/Mail-yeyulinxi0144@gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeyulinxi0144@gmail.com)
 
-[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=RainChan0721.RainChan0721)](https://github.com/RainChan0721)
+![Profile views](https://count.getloli.com/@RainChan0721?name=RainChan0721&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 
