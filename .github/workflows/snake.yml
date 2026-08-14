@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: RainChan0721
@@ -17,6 +18,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
+      - name: Fix git safe.directory
+        run: git config --global --add safe.directory /github/workspace
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
